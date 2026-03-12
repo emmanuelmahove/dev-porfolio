@@ -33,8 +33,8 @@ Mineti is built using a modern desktop stack:
 
 ## Screenshots
 
-![Mineti Screenshot 1](mineti/app-screenshot-1.png)
-
-![Mineti Screenshot 2](mineti/app-screenshot-2.png)
-
-![Mineti Screenshot 3](mineti/app-screenshot-3.png)
+<img src="/projects/mineti/app-screenshot-1.png" alt="Mineti Screenshot 1" 
+  style="margin-bottom: 50px;">
+<img src="/projects/mineti/app-screenshot-2.png" alt="Mineti Screenshot 2"
+  style="margin-bottom: 50px;">
+<img src="/projects/mineti/app-screenshot-3.png" alt="Mineti Screenshot 3">
