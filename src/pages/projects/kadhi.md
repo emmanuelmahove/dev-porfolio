@@ -28,10 +28,10 @@ Kadhi is built using a modern cross-platform mobile stack:
 
 ## Screenshots
 
-<img src="/projects/kadhi/app-screenshot-1.png" alt="Kadhi Screenshot 1" 
-  style="height:600px; margin-bottom: 50px; border: 1px #000000 solid;">
-<img src="/projects/kadhi/app-screenshot-2.png" alt="Kadhi Screenshot 2"
-  style="height:600px; border: 1px #8d8d8d solid;">
+<div class="project-mobile-screenshots">
+  <img src="/projects/kadhi/app-screenshot-1.png" alt="Kadhi Screenshot 1">
+  <img src="/projects/kadhi/app-screenshot-2.png" alt="Kadhi Screenshot 2">
+</div>
 
 ## Try it Out
 
