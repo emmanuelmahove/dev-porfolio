@@ -21,7 +21,7 @@ features:
   - title: Kadhi Wallet
     icon:
       src: /projects/kadhi/icon.png
-    details: Loyalty Card Wallet
+    details: Digital loyalty card wallet
     link: /projects/kadhi
     linkText: Read more
   - title: Mineti
