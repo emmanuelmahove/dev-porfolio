@@ -19,10 +19,10 @@ The goal of Kadhi is to make loyalty cards **easier to access, organize, and use
 
 Kadhi is built using a modern cross-platform mobile stack:
 
-- **React Native + Expo** — cross-platform mobile development
+- **Capacitor + Ionic** — cross-platform mobile development
+- **Vue 3** - progressive JavaScript framework
 - **TypeScript** — type-safe development
-- **Drizzle ORM** — structured local data management
-- **Zustand** — lightweight state management
+- **Pinia** — lightweight state management
 - **SQLite** — local data storage
 
 
@@ -31,6 +31,8 @@ Kadhi is built using a modern cross-platform mobile stack:
 <div class="project-mobile-screenshots">
   <img src="/projects/kadhi/app-screenshot-1.png" alt="Kadhi Screenshot 1">
   <img src="/projects/kadhi/app-screenshot-2.png" alt="Kadhi Screenshot 2">
+  <img src="/projects/kadhi/app-screenshot-3.png" alt="Kadhi Screenshot 3">
+  <img src="/projects/kadhi/app-screenshot-4.png" alt="Kadhi Screenshot 4">
 </div>
 
 ## Try it Out
