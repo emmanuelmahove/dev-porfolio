@@ -40,3 +40,5 @@ Kadhi is built using a modern cross-platform mobile stack:
 You can test Kadhi through **Apple TestFlight**:
 
 <https://testflight.apple.com/join/16wEx6yd>
+
+App Store link: _Coming Soon_
