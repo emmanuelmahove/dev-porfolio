@@ -1,6 +1,6 @@
 # Kadhi — Digital Loyalty Card Wallet
 
-Kadhi is a simple mobile app that allows users to store all their loyalty cards in one digital wallet.
+[Kadhi Wallet](https://kadhi.emahove.co.za) is a simple mobile app that allows users to store all their loyalty cards in one digital wallet.
 
 The idea for Kadhi came from a very practical problem at home. My dad carries a bulky wallet filled with loyalty cards, my own wallet doesn't even have space for them and my mom often forgets or loses track of her cards. Instead of juggling multiple plastic cards, Kadhi lets users keep them all in one place on their phone.
 
@@ -37,8 +37,10 @@ Kadhi is built using a modern cross-platform mobile stack:
 
 ## Try it Out
 
-You can test Kadhi through **Apple TestFlight**:
+You can checkout Kadhi Wallet on the **App Store:** <https://apps.apple.com/us/app/kadhi-wallet/id6759680870>
 
-<https://testflight.apple.com/join/16wEx6yd>
+<a href="https://apps.apple.com/us/app/kadhi-wallet/id6759680870?itscg=30200&itsct=apps_box_badge&mttnsubad=6759680870" style="display: inline-block; margin-bottom: 40px; margin-top: 20px;">
+  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1787616000" alt="Download on the App Store" style="width: 244px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
 
-App Store link: _Coming Soon_
+Or visit the landing page for more information: <https://kadhi.emahove.co.za>
