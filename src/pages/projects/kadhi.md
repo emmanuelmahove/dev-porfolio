@@ -43,4 +43,4 @@ You can checkout Kadhi Wallet on the **App Store:** <https://apps.apple.com/us/a
   <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1787616000" alt="Download on the App Store" style="width: 244px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
-Or visit the landing page for more information: <https://kadhi.emahove.co.za>
+Or visit the landing page for more information: <https://kadhi.emahove.co.za?utm_source=portfolio>
