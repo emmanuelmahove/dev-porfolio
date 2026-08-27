@@ -37,9 +37,9 @@ Kadhi is built using a modern cross-platform mobile stack:
 
 ## Try it Out
 
-You can checkout Kadhi Wallet on the **App Store:** <https://apps.apple.com/us/app/kadhi-wallet/id6759680870>
+You can checkout Kadhi Wallet on the **App Store:** <https://apps.apple.com/us/app/kadhi-wallet/id6759680870&utm_source=portfolio>
 
-<a href="https://apps.apple.com/us/app/kadhi-wallet/id6759680870?itscg=30200&itsct=apps_box_badge&mttnsubad=6759680870" style="display: inline-block; margin-bottom: 40px; margin-top: 20px;">
+<a href="https://apps.apple.com/us/app/kadhi-wallet/id6759680870?itscg=30200&itsct=apps_box_badge&mttnsubad=6759680870utm_source=portfolio" style="display: inline-block; margin-bottom: 40px; margin-top: 20px;">
   <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1787616000" alt="Download on the App Store" style="width: 244px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
