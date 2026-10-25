@@ -43,4 +43,8 @@ You can checkout Kadhi Wallet on the **App Store:** <https://apps.apple.com/us/a
   <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1787616000" alt="Download on the App Store" style="width: 244px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
+Kadhi Wallet is still in closed testing on Android, to try it out early:
+1. Join the Google Group: <a href="https://groups.google.com/g/kadhi-wallet">https://groups.google.com/g/kadhi-wallet</a>
+2. Use the same Google account to download from Play Store: <a href="https://play.google.com/apps/testing/app.kadhi.wallet">https://play.google.com/apps/testing/app.kadhi.wallet</a>
+
 Or visit the landing page for more information: <https://kadhi.emahove.co.za?utm_source=portfolio>
